@@ -1,5 +1,7 @@
 # TwitchInsights Known Bot Lists
 
+Lists of known twitch bots, prepared for your banning pleasure.
+
 These are simple lists meant to be used with the [Commander Root Ban Tool](https://twitch-tools.rootonline.de/chatban_manager.php).
 They are extracted from [TwitchInsights](https://twitchinsights.net/bots).
 
