@@ -17,6 +17,8 @@ These lists only contain the bots that are new since last week. This should be m
 
 (Alternatively you can do this daily and use the daily lists instead!)
 
+---
+
 ## Advanced - How to use the lists
 
 There are two types of lists, **base** and **update**.
