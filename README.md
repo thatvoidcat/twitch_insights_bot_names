@@ -3,7 +3,21 @@
 These are simple lists meant to be used with the [Commander Root Ban Tool](https://twitch-tools.rootonline.de/chatban_manager.php).
 They are extracted from [TwitchInsights](https://twitchinsights.net/bots).
 
-## How to use the lists
+## HOW TO USE THIS
+
+### One time only to get started:
+
+Grab the latest complete list of bots [HERE](../tree/master/lists/base) and ban all of them.
+It might take a while, it is over 200k accounts.
+
+### Once per week on a Monday
+
+Grab the latest weekly update list [HERE](../tree/master/lists/update) and ban all of them.
+These lists only contain the bots that are new since last week. This should be much faster.
+
+(Alternatively you can do this daily and use the daily lists instead!)
+
+## Advanced - How to use the lists
 
 There are two types of lists, **base** and **update**.
 
