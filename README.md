@@ -26,4 +26,7 @@ The weekly update lists contain all the bots that have been added in the last we
 
 The daily update lists contain all the bots that have been added in the last day.
 
+## Ban lists
+
+The lists in the `ban` folder are the same as in `lists`, just with `/ban ` before each twitch username.
 

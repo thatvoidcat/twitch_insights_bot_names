@@ -5,6 +5,8 @@ LISTS_DIR="lists"
 
 mkdir -p "$LISTS_DIR/base"
 mkdir -p "$LISTS_DIR/update"
+mkdir -p "ban/$LISTS_DIR/base"
+mkdir -p "ban/$LISTS_DIR/update"
 
 function fetch_list {
     # $1: file name to fetch into
@@ -13,7 +15,9 @@ function fetch_list {
 }
 
 function create_weekly_list {
-    fetch_list "$LISTS_DIR/base/base_list_$(date +%F).txt"
+    t="$LISTS_DIR/base/base_list_$(date +%F).txt"
+    fetch_list "$t"
+    cat "$t" | awk '{print "/ban " $0}' > "ban/$t"
 }
 
 function create_weekly_update_list {
@@ -22,6 +26,7 @@ function create_weekly_update_list {
     t="$LISTS_DIR/update/weekly_update_$(date +%F).txt"
     if [[ -f "$ol" ]]; then
         comm -13 "$ol" "$nl" > "$t"
+        cat "$t" | awk '{print "/ban " $0}' > "ban/$t"
     fi
 }
 
@@ -40,7 +45,9 @@ function create_daily_update_list {
             comm -13 "$LISTS_DIR/update/daily_update_$(date --date="$c days ago" +%F).txt" "$TEMP_DIR/input" > "$TEMP_DIR/reduced"
         fi
     done
-    cp "$TEMP_DIR/reduced" "$LISTS_DIR/update/daily_update_$(date +%F).txt"
+    t="$LISTS_DIR/update/daily_update_$(date +%F).txt"
+    cp "$TEMP_DIR/reduced" "$t"
+    cat "$t" | awk '{print "/ban " $0}' > "ban/$t"
 }
 
 if [[ "$(date +%u)" == "1" ]];
