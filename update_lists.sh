@@ -10,7 +10,9 @@ mkdir -p "ban/$LISTS_DIR/update"
 
 function fetch_list {
     # $1: file name to fetch into
-    curl "https://api.twitchinsights.net/v1/bots/all" | jq ".bots | .[] | first" | tr -d '"' | sort > "$1"
+    t="$TEMP_DIR/fetched_list"
+    curl "https://api.twitchinsights.net/v1/bots/all" | jq ".bots | .[] | first" | tr -d '"' | sort > "$t"
+    comm -13 "known_safe" "$t" > "$1"
     #cp allbots "$1"
 }
 

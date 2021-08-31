@@ -12527,8 +12527,6 @@
 /ban amayazinhax
 /ban amayka
 /ban amazedgamer55
-/ban amazeful
-/ban amazefulbot
 /ban amazefullogger
 /ban amazeibig
 /ban amazemezero
@@ -29659,7 +29657,6 @@
 /ban buttonboiiii
 /ban buttonpuppy
 /ban buttonssi
-/ban buttsbot
 /ban buttst0ff
 /ban butucofps
 /ban butzbee
@@ -36890,7 +36887,6 @@
 /ban commanderkarim
 /ban commander_katyusha_0w0
 /ban commanderkenobi
-/ban commanderroot
 /ban commanderrootdad
 /ban commanderrooted
 /ban commander_trs0
@@ -38103,7 +38099,6 @@
 /ban creamzaz
 /ban creasech
 /ban createdpain
-/ban creatisbot
 /ban creativ_dreamrr
 /ban creativekarm
 /ban creativename4280
@@ -47333,7 +47328,6 @@
 /ban dinozofficial
 /ban dinozor2643
 /ban dinrix
-/ban dinu
 /ban diny83
 /ban dio0710
 /ban dio179
@@ -64679,7 +64673,6 @@
 /ban fosfocreatina
 /ban foshyk
 /ban fosie_95
-/ban fossabot
 /ban fossilbug65
 /ban fossy_11_10
 /ban fost777
@@ -106559,7 +106552,6 @@
 /ban latte1943
 /ban lattedinoci0679
 /ban latteinthisbit
-/ban lattemotte
 /ban lattewastake
 /ban latukikiti
 /ban latula777
@@ -111747,7 +111739,6 @@
 /ban loguevelfyy
 /ban loguine_xgamer
 /ban logunhodge
-/ban logviewer
 /ban logxsig
 /ban lohan_afreitas
 /ban lohanbmello
@@ -129802,7 +129793,6 @@
 /ban mooaul
 /ban mooberoo
 /ban moobin08
-/ban moobot
 /ban moobotje_r
 /ban moobstile
 /ban moodbrewed
@@ -136489,7 +136479,6 @@
 /ban night_artifact
 /ban nightb0t_004038
 /ban night_biohunter
-/ban nightbot
 /ban nightbot1897
 /ban nightcapz
 /ban nightcore292
@@ -142172,7 +142161,6 @@
 /ban overon60hz
 /ban overplay1337
 /ban overqualifiedhamster
-/ban overrustlelogs
 /ban overstriker4
 /ban overthere86
 /ban overuar
@@ -142250,7 +142238,6 @@
 /ban owl_vizx
 /ban owlzero37
 /ban ow_meongmung2
-/ban own3d
 /ban owndofb
 /ban ownerpt
 /ban owngiada12345
@@ -152020,7 +152007,6 @@
 /ban rainleox
 /ban rainlomar
 /ban rainmacandnoknickers
-/ban rainmaker
 /ban rainman4747
 /ban rainman_a
 /ban rainmk1
@@ -169154,7 +169140,6 @@
 /ban so_chocobo
 /ban sochy
 /ban sociak_03
-/ban socialblade
 /ban socialfriends11
 /ban social_galaxy
 /ban social_growth_discord
@@ -170258,7 +170243,6 @@
 /ban soumodelodocreme
 /ban soumy2000
 /ban soumyadeeppal07
-/ban soundalerts
 /ban soundcares09
 /ban soundofraindrops
 /ban soundos2009
@@ -172813,8 +172797,6 @@
 /ban streambee_bot
 /ban streambeing
 /ban streamboystream
-/ban streamdeckerbot
-/ban streamelements
 /ban streamer000011
 /ban streamer1111111111132
 /ban streamer_135o
@@ -172842,9 +172824,6 @@
 /ban streamingbobyoso1
 /ban streaminofun
 /ban streamixbot
-/ban streamjar
-/ban streamkit
-/ban streamlabs
 /ban stream_lurkers_united
 /ban streammyfriend
 /ban streampromotebot
@@ -180776,7 +180755,6 @@
 /ban tipborg
 /ban tipchik06
 /ban tipchip68
-/ban tipeeebot
 /ban tiphanydawn
 /ban tiphoud
 /ban tiph_proyt
@@ -190354,7 +190332,6 @@
 /ban vivat0_0
 /ban vivatoqi
 /ban vivav
-/ban vivbot
 /ban vivdnolxvee
 /ban vivekisreal
 /ban vivek_kothari_426
@@ -193470,7 +193447,6 @@
 /ban wizard_of_gore_2
 /ban wizardrey1
 /ban wizeaofficiel
-/ban wizebot
 /ban wizedgang
 /ban wizenedlmpala83
 /ban wizer543
